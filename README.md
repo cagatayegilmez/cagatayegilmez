@@ -1,12 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently working on **modular iOS architectures**, internal UI frameworks, and SwiftUI–UIKit hybrid systems<br>🤝 I’m looking to collaborate on **SwiftUI-heavy projects**, design system libraries, and developer tooling<br>🌱 I’m currently learning **advanced Swift Concurrency**, performance optimization, and scalable app architecture<br>💬 Ask me about **iOS architecture (MVVM / Clean / Coordinator)**, SwiftUI–UIKit integration, CI/CD for iOS, or building reusable components<br>⚡ Fun fact: I enjoy refactoring legacy Objective-C code almost as much as writing fresh Swift<br>
+# Çağatay Eğilmez
 
+Senior iOS Developer with 9+ years of experience building large scale fintech and banking applications. I work across the full iOS stack Swift, Objective-C, SwiftUI, UIKit with a focus on architecture, performance, and shipping things that actually work in production.
 
-## 🌐 Socials:
+Currently exploring on-device machine learning with Core ML.
+
+## Work
+
+Most of my production work lives in private repos, but here's what's public:
+
+- **[PinGuard](https://github.com/pinguard/pinguard-ios)** — Production grade SSL pinning SDK for iOS. Zero dependencies, ships as SPM package, handles certificate rotation without app resubmission.
+- **[AIDetector](https://github.com/cagatayegilmez/AIDetector)** — On-device AI-generated image detector. Swin Transformer model converted from HuggingFace to Core ML via torch.export. No server, no data upload.
+- **[MovieProjectConcurrency](https://github.com/cagatayegilmez/MovieProjectConcurrency)** — MVVM-C architecture with pure Swift Concurrency. TaskGroup-based parallel fetching, cooperative cancellation, zero Combine.
+- **[MovieProjectHybrid](https://github.com/cagatayegilmez/MovieProjectHybrid)** — UIKit and SwiftUI hybrid showing Combine and async/await coexisting in a single MVVM-C codebase.
+- **[ViperChallange](https://github.com/cagatayegilmez/ViperChallange)** — VIPER architecture with SwiftUI/UIKit boundary bridging and pure Swift Concurrency.
+
+## Stack
+
+Swift · Objective-C · SwiftUI · UIKit · Core ML · Swift Concurrency · MVVM · VIPER · Clean Architecture · Coordinator · SPM · Firebase · Jenkins · GitHub Actions
+
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagatay-egilmez) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12590254/cagatayegilmez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cagatayegilmez08@gmail.com) 
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cagatayegilmez&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cagatayegilmez&theme=dark&hide_border=false)<br/>
